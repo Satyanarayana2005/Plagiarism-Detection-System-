@@ -27,4 +27,6 @@ This project is developed using Visual Studio Code (VS Code) as the development 
      The user provides text files or input text
      The system preprocesses the text (removes punctuation, converts to lowercase, etc.)
      Text similarity is calculated using matching algorithms
-     The final plagiarism percentage is displayed
+     The final plagiarism percentage is displayed, 
+Video File : 
+           https://github.com/user-attachments/assets/f9c3c831-d999-401e-907f-7793cabc6c88
